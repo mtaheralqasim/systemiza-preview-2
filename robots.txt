@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://systemiza-minimal-ui-v2.crafty-creek-1632.chatgpt.site/sitemap.xml
